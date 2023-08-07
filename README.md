@@ -12,11 +12,11 @@ Those legal niceties out of the way, here's what we know right now.
 
 ## Support is on the way
 
-There are active efforts underway by a core of former CodeClan
-instructors to help the impacted cohorts with continued studies,
-although there might be a short hiatus (~1 week) while we scramble to
-get the logistics in place to do this. Cohorts are being contacted on
-a community Slack.
+There are active efforts underway by a core of former CodeClan staff
+to help the impacted cohorts with continued studies, although there
+might be a short hiatus (~1 week) while we scramble to get the
+logistics in place to do this. Cohorts are being contacted on a
+community Slack.
 
 We're engaging with individuals, tech communities and companies to
 help us build the kind of varied, multi-faceted learning experience
@@ -42,7 +42,8 @@ CodeClan's infrastructure is now in the hands of the liquidators -
 email, calendar, Zoom accounts, GitHub organisation
 accounts. Responding to individual messages as well as trying to spin
 up a replacement teaching platform is a lot to process, so you'd be
-making our jobs a little easier in this difficult transitional period.
+making our jobs a little easier in this difficult transitional period
+by engaging with the page rather than messaging us :heart:
 
 ## Crowdfunding
 
