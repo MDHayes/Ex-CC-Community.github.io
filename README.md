@@ -58,3 +58,5 @@ very grateful.
 
 We're going to post updates on any developments in here, and also on
 the Community Lab site.
+
+To contribute please PR on [GitHub](https://github.com/Ex-CC-Community/Ex-CC-Community.github.io)
