@@ -27,7 +27,7 @@ we'd appreciate your help.
 
 We're profoundly grateful for all offers of support. If you can do any
 of these things, please [connect and volunteer on Community
-Lab](https://app.communitylab.app/groups/codeclan-student-support):
+Lab](https://app.communitylab.app/groups/codeclan-student-support?invite=sLZq3mGuV9xUNpJAmGRXzNeG):
 
 - Be a mentor to students
 - Run a workshop
@@ -36,7 +36,7 @@ Lab](https://app.communitylab.app/groups/codeclan-student-support):
 - Hire one of our graduates!
 
 If you'd like to help, please [engage with the page at Community
-Lab](https://app.communitylab.app/groups/codeclan-student-support). Although
+Lab](https://app.communitylab.app/groups/codeclan-student-support?invite=sLZq3mGuV9xUNpJAmGRXzNeG). Although
 we appreciate messages of support and emails, please understand that
 CodeClan's infrastructure is now in the hands of the liquidators -
 email, calendar, Zoom accounts, GitHub organisation
